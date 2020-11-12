@@ -1,0 +1,12 @@
+/Users/nathan/Projects/CommandSystem/CommandSystem/bin/Debug/netcoreapp3.1/CommandSystem.deps.json
+/Users/nathan/Projects/CommandSystem/CommandSystem/bin/Debug/netcoreapp3.1/CommandSystem.runtimeconfig.json
+/Users/nathan/Projects/CommandSystem/CommandSystem/bin/Debug/netcoreapp3.1/CommandSystem.runtimeconfig.dev.json
+/Users/nathan/Projects/CommandSystem/CommandSystem/bin/Debug/netcoreapp3.1/CommandSystem.dll
+/Users/nathan/Projects/CommandSystem/CommandSystem/bin/Debug/netcoreapp3.1/CommandSystem.pdb
+/Users/nathan/Projects/CommandSystem/CommandSystem/obj/Debug/netcoreapp3.1/CommandSystem.csprojAssemblyReference.cache
+/Users/nathan/Projects/CommandSystem/CommandSystem/obj/Debug/netcoreapp3.1/CommandSystem.AssemblyInfoInputs.cache
+/Users/nathan/Projects/CommandSystem/CommandSystem/obj/Debug/netcoreapp3.1/CommandSystem.AssemblyInfo.cs
+/Users/nathan/Projects/CommandSystem/CommandSystem/obj/Debug/netcoreapp3.1/CommandSystem.csproj.CoreCompileInputs.cache
+/Users/nathan/Projects/CommandSystem/CommandSystem/obj/Debug/netcoreapp3.1/CommandSystem.dll
+/Users/nathan/Projects/CommandSystem/CommandSystem/obj/Debug/netcoreapp3.1/CommandSystem.pdb
+/Users/nathan/Projects/CommandSystem/CommandSystem/obj/Debug/netcoreapp3.1/CommandSystem.genruntimeconfig.cache
